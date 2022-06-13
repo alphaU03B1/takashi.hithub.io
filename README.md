@@ -1,2 +1,2 @@
-# takashi.github.io
+# takashi
 aaaaa
